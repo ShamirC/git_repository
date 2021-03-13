@@ -6,4 +6,8 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes
-what is your name your name ?
+<<<<<<< HEAD
+what is your name her name ?
+=======
+what is your name i am alex
+>>>>>>> feature1
